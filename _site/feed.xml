@@ -4,7 +4,7 @@
   <id>https://dim0x.github.io/chirpy/</id>
   <title>dimo's blog</title>
   <subtitle>dimo的博客</subtitle>
-  <updated>2023-01-20T14:25:30+08:00</updated>
+  <updated>2023-01-20T14:34:48+08:00</updated>
   <author>
     <name>dimo</name>
     <uri>https://dim0x.github.io/chirpy/</uri>
@@ -20,8 +20,8 @@
 
   
   <entry>
-    <title>--有关博客页面加载慢、主题无法正常加载的说明--</title>
-    <link href="https://dim0x.github.io/chirpy/posts/cdn-js-problem/" rel="alternate" type="text/html" title="--有关博客页面加载慢、主题无法正常加载的说明--" />
+    <title>有关博客页面加载慢、主题无法正常加载的说明</title>
+    <link href="https://dim0x.github.io/chirpy/posts/cdn-js-problem/" rel="alternate" type="text/html" title="有关博客页面加载慢、主题无法正常加载的说明" />
     <published>2023-01-20T00:00:00+08:00</published>
   
     <updated>2023-01-20T00:00:00+08:00</updated>
@@ -74,7 +74,7 @@
     <link href="https://dim0x.github.io/chirpy/posts/tst/" rel="alternate" type="text/html" title="Tst" />
     <published>2023-01-15T00:00:00+08:00</published>
   
-    <updated>2023-01-15T00:00:00+08:00</updated>
+    <updated>2023-01-20T14:25:56+08:00</updated>
   
     <id>https://dim0x.github.io/chirpy/posts/tst/</id>
     <content src="https://dim0x.github.io/chirpy/posts/tst/" />
