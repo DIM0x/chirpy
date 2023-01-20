@@ -1,17 +1,17 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:4000/chirpy/</id>
+  <id>https://dim0x.github.io/chirpy/</id>
   <title>dimo's blog</title>
   <subtitle>dimo的博客</subtitle>
-  <updated>2023-01-20T13:23:14+08:00</updated>
+  <updated>2023-01-20T13:42:45+08:00</updated>
   <author>
     <name>dimo</name>
-    <uri>http://localhost:4000/chirpy/</uri>
+    <uri>https://dim0x.github.io/chirpy/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="http://localhost:4000/chirpy/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="https://dim0x.github.io/chirpy/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="zh-CN"
-    href="http://localhost:4000/chirpy/"/>
+    href="https://dim0x.github.io/chirpy/"/>
   <generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator>
   <rights> © 2023 dimo </rights>
   <icon>/chirpy/assets/img/favicons/favicon.ico</icon>
@@ -21,13 +21,13 @@
   
   <entry>
     <title>Tst</title>
-    <link href="http://localhost:4000/chirpy/posts/tst/" rel="alternate" type="text/html" title="Tst" />
+    <link href="https://dim0x.github.io/chirpy/posts/tst/" rel="alternate" type="text/html" title="Tst" />
     <published>2023-01-15T00:00:00+08:00</published>
   
     <updated>2023-01-15T00:00:00+08:00</updated>
   
-    <id>http://localhost:4000/chirpy/posts/tst/</id>
-    <content src="http://localhost:4000/chirpy/posts/tst/" />
+    <id>https://dim0x.github.io/chirpy/posts/tst/</id>
+    <content src="https://dim0x.github.io/chirpy/posts/tst/" />
     <author>
       <name>dimo</name>
     </author>
