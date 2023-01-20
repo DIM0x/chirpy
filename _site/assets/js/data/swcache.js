@@ -44,7 +44,7 @@ const resource = [
 const allowedDomains = [
     
 
-    'dim0x.github.io',
+    'localhost:4000',
 
     
 
