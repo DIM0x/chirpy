@@ -1,0 +1,57 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://dim0x.github.io/chirpy/</id>
+  <title>dimo's blog</title>
+  <subtitle>dimo的博客</subtitle>
+  <updated>2023-01-20T11:08:57+08:00</updated>
+  <author>
+    <name>dimo</name>
+    <uri>https://dim0x.github.io/chirpy/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="https://dim0x.github.io/chirpy/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="zh-CN"
+    href="https://dim0x.github.io/chirpy/"/>
+  <generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator>
+  <rights> © 2023 dimo </rights>
+  <icon>/chirpy/assets/img/favicons/favicon.ico</icon>
+  <logo>/chirpy/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Tst</title>
+    <link href="https://dim0x.github.io/chirpy/posts/tst/" rel="alternate" type="text/html" title="Tst" />
+    <published>2023-01-15T00:00:00+08:00</published>
+  
+    <updated>2023-01-15T00:00:00+08:00</updated>
+  
+    <id>https://dim0x.github.io/chirpy/posts/tst/</id>
+    <content src="https://dim0x.github.io/chirpy/posts/tst/" />
+    <author>
+      <name>dimo</name>
+    </author>
+
+  
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      hihihi
+
+
+    </summary>
+  
+
+  </entry>
+
+</feed>
+
+
