@@ -3,6 +3,30 @@
 icon: fas fa-info-circle
 order: 4
 ---
+dimo的博客  访问地址：[从Github](https://dim0x.github.io/chirpy/) | 从[Gitee](https://nsdimo.gitee.io/chirpy/)
+>此处推荐尽量使用GitHub访问。GitHub更新博客比较方便，而gitee pages需要手动点击才能更新，因此gitee可能有更新滞后。
+{: .prompt-info }
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+---
+
+### 板块介绍
+
+主页：显示置顶文章，以及最新文章推荐。
+
+分类：找到不同类别中的文章。按照分类寻找文章时，建议使用此页面。
+
+标签：查看标记的标签，以及标签对应的文章。
+
+归档：以时间线形式展示博客文章。
+
+阅读文章时，可以从右侧目录跳转章节。
+
+---
+
+因为买不起对象存储，本站几乎所有图片都存储与第三方图床。部分本站图片会从俄罗斯站[sibnet](https://photo.sibnet.ru/)加载，另一部分则来自[IMG.AX图像托管](https://img.ax/)，可能出现图片加载缓慢现象，请见谅。*从我这边来看，速度还是可以的。*
+
+为了防止图片丢失，每篇文章都会分别使用不同图床上传2次。若发现访问缓慢或图片丢失，请复制文章标题，粘贴到搜索栏后回车，即可搜到使用其他图床的相同文章。
+
+---
+
+**由于是第一次搭建博客，经验不足，有不妥之处欢迎联系指正。**页面左下角可找到联系方式按钮。

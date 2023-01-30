@@ -19,12 +19,12 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: dimo's blog                          # the main title
+title: dimo's ArticleBase                      # the main title
 
 tagline: 期待只會受傷害   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  dimo的博客
+  dimo的文件资源管理器
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://dim0x.github.io'
