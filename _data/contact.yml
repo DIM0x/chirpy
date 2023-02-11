@@ -3,19 +3,19 @@
 -
   type: github
   icon: 'fab fa-github'
+  url: 'https://github.com/dim0x/'
 -
   type: zhihu
   icon: 'fab fa-zhihu'
+  url: 'https://www.zhihu.com/people/dimo-24/'
   -
   type: bilibili
   icon: 'fab fa-bilibili'
+  url: 'https://space.bilibili.com/1277875846'
 -
   type: email
   icon: 'fas fa-envelope'
   noblank: true            # open link in current tab
--
-  type: rss
-  icon: 'fas fa-rss'
 
 # Uncomment and complete the url below to enable more contact options
 # -
