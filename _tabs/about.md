@@ -3,8 +3,8 @@
 icon: fas fa-info-circle
 order: 4
 ---
-dimo的博客  访问地址：[从Github](https://dim0x.github.io/chirpy/) | 从[Gitee](https://nsdimo.gitee.io/chirpy/)
->此处推荐尽量使用GitHub访问。GitHub更新博客比较方便，而gitee pages需要手动点击才能更新，因此gitee可能有更新滞后。
+dimo的博客  访问地址：[从Github](https://dim0x.github.io/chirpy/) | 从[Gitee](https://nsdimo.gitee.io/chirpy/)（已弃用，仅作文件备份）
+>gitee鸡肋的敏感词检查功能，一直是其前进路上的绊脚石。
 {: .prompt-info }
 
 ---
