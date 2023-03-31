@@ -1,43 +1,43 @@
 const resource = [
     /* --- CSS --- */
-    '/chirpy/assets/css/style.css',
+    '/chirpy/_site/assets/css/style.css',
 
     /* --- PWA --- */
-    '/chirpy/app.js',
-    '/chirpy/sw.js',
+    '/chirpy/_site/app.js',
+    '/chirpy/_site/sw.js',
 
     /* --- HTML --- */
-    '/chirpy/index.html',
-    '/chirpy/404.html',
+    '/chirpy/_site/index.html',
+    '/chirpy/_site/404.html',
 
     
-        '/chirpy/categories/',
+        '/chirpy/_site/categories/',
     
-        '/chirpy/tags/',
+        '/chirpy/_site/tags/',
     
-        '/chirpy/archives/',
+        '/chirpy/_site/archives/',
     
-        '/chirpy/about/',
+        '/chirpy/_site/about/',
     
 
     /* --- Favicons & compressed JS --- */
     
     
-        '/chirpy/assets/img/favicons/android-chrome-192x192.png',
-        '/chirpy/assets/img/favicons/android-chrome-512x512.png',
-        '/chirpy/assets/img/favicons/apple-touch-icon.png',
-        '/chirpy/assets/img/favicons/favicon-16x16.png',
-        '/chirpy/assets/img/favicons/favicon-32x32.png',
-        '/chirpy/assets/img/favicons/favicon.ico',
-        '/chirpy/assets/img/favicons/mstile-150x150.png',
-        '/chirpy/assets/img/favicons/safari-pinned-tab.svg',
-        '/chirpy/assets/js/dist/categories.min.js',
-        '/chirpy/assets/js/dist/commons.min.js',
-        '/chirpy/assets/js/dist/home.min.js',
-        '/chirpy/assets/js/dist/misc.min.js',
-        '/chirpy/assets/js/dist/page.min.js',
-        '/chirpy/assets/js/dist/post.min.js',
-        '/chirpy/assets/js/dist/pvreport.min.js'
+        '/chirpy/_site/assets/img/favicons/android-chrome-192x192.png',
+        '/chirpy/_site/assets/img/favicons/android-chrome-512x512.png',
+        '/chirpy/_site/assets/img/favicons/apple-touch-icon.png',
+        '/chirpy/_site/assets/img/favicons/favicon-16x16.png',
+        '/chirpy/_site/assets/img/favicons/favicon-32x32.png',
+        '/chirpy/_site/assets/img/favicons/favicon.ico',
+        '/chirpy/_site/assets/img/favicons/mstile-150x150.png',
+        '/chirpy/_site/assets/img/favicons/safari-pinned-tab.svg',
+        '/chirpy/_site/assets/js/dist/categories.min.js',
+        '/chirpy/_site/assets/js/dist/commons.min.js',
+        '/chirpy/_site/assets/js/dist/home.min.js',
+        '/chirpy/_site/assets/js/dist/misc.min.js',
+        '/chirpy/_site/assets/js/dist/page.min.js',
+        '/chirpy/_site/assets/js/dist/post.min.js',
+        '/chirpy/_site/assets/js/dist/pvreport.min.js'
 ];
 
 /* The request url with below domain will be cached */

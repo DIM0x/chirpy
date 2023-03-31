@@ -2,7 +2,7 @@
   
   {
     "title": "Potplayer详细教程:入门使用&进阶操作技巧指南-photo.sibnet.ru",
-    "url": "/chirpy/posts/potplayer-sibnet/",
+    "url": "/chirpy/_site/posts/potplayer-sibnet/",
     "categories": "Windows软件",
     "tags": "原创",
     "date": "2023-01-25 00:00:00 +0800",
@@ -19,7 +19,7 @@
   
   {
     "title": "Potplayer详细教程:入门使用&进阶操作技巧指南-img.ax",
-    "url": "/chirpy/posts/potplayer-imgax/",
+    "url": "/chirpy/_site/posts/potplayer-imgax/",
     "categories": "Windows软件",
     "tags": "原创",
     "date": "2023-01-25 00:00:00 +0800",
@@ -36,7 +36,7 @@
   
   {
     "title": "【置顶】有关博客页面加载慢、主题无法正常加载等问题的说明",
-    "url": "/chirpy/posts/pin-blog/",
+    "url": "/chirpy/_site/posts/pin-blog/",
     "categories": "博客相关",
     "tags": "原创",
     "date": "2023-01-20 00:00:00 +0800",
