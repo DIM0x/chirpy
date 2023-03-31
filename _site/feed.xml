@@ -1,17 +1,17 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>https://dim0x.github.io/chirpy/</id>
+  <id>http://localhost:4000/chirpy/</id>
   <title>dimo's ArticleBase</title>
   <subtitle>dimo的文件资源管理器</subtitle>
-  <updated>2023-03-31T20:24:22+08:00</updated>
+  <updated>2023-03-31T20:48:52+08:00</updated>
   <author>
     <name>dimo</name>
-    <uri>https://dim0x.github.io/chirpy/</uri>
+    <uri>http://localhost:4000/chirpy/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="https://dim0x.github.io/chirpy/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/chirpy/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="zh-CN"
-    href="https://dim0x.github.io/chirpy/"/>
+    href="http://localhost:4000/chirpy/"/>
   <generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator>
   <rights> © 2023 dimo </rights>
   <icon>/chirpy/assets/img/favicons/favicon.ico</icon>
@@ -21,13 +21,13 @@
   
   <entry>
     <title>Potplayer详细教程:入门使用&amp;进阶操作技巧指南-photo.sibnet.ru</title>
-    <link href="https://dim0x.github.io/chirpy/posts/potplayer-sibnet/" rel="alternate" type="text/html" title="Potplayer详细教程:入门使用&amp;进阶操作技巧指南-photo.sibnet.ru" />
+    <link href="http://localhost:4000/chirpy/posts/potplayer-sibnet/" rel="alternate" type="text/html" title="Potplayer详细教程:入门使用&amp;进阶操作技巧指南-photo.sibnet.ru" />
     <published>2023-01-25T00:00:00+08:00</published>
   
     <updated>2023-01-25T00:00:00+08:00</updated>
   
-    <id>https://dim0x.github.io/chirpy/posts/potplayer-sibnet/</id>
-    <content src="https://dim0x.github.io/chirpy/posts/potplayer-sibnet/" />
+    <id>http://localhost:4000/chirpy/posts/potplayer-sibnet/</id>
+    <content src="http://localhost:4000/chirpy/posts/potplayer-sibnet/" />
     <author>
       <name>dimo</name>
     </author>
@@ -63,13 +63,13 @@
   
   <entry>
     <title>Potplayer详细教程:入门使用&amp;进阶操作技巧指南-img.ax</title>
-    <link href="https://dim0x.github.io/chirpy/posts/potplayer-imgax/" rel="alternate" type="text/html" title="Potplayer详细教程:入门使用&amp;进阶操作技巧指南-img.ax" />
+    <link href="http://localhost:4000/chirpy/posts/potplayer-imgax/" rel="alternate" type="text/html" title="Potplayer详细教程:入门使用&amp;进阶操作技巧指南-img.ax" />
     <published>2023-01-25T00:00:00+08:00</published>
   
     <updated>2023-01-25T00:00:00+08:00</updated>
   
-    <id>https://dim0x.github.io/chirpy/posts/potplayer-imgax/</id>
-    <content src="https://dim0x.github.io/chirpy/posts/potplayer-imgax/" />
+    <id>http://localhost:4000/chirpy/posts/potplayer-imgax/</id>
+    <content src="http://localhost:4000/chirpy/posts/potplayer-imgax/" />
     <author>
       <name>dimo</name>
     </author>
@@ -105,13 +105,13 @@
   
   <entry>
     <title>【置顶】有关博客页面加载慢、主题无法正常加载等问题的说明</title>
-    <link href="https://dim0x.github.io/chirpy/posts/pin-blog/" rel="alternate" type="text/html" title="【置顶】有关博客页面加载慢、主题无法正常加载等问题的说明" />
+    <link href="http://localhost:4000/chirpy/posts/pin-blog/" rel="alternate" type="text/html" title="【置顶】有关博客页面加载慢、主题无法正常加载等问题的说明" />
     <published>2023-01-20T00:00:00+08:00</published>
   
     <updated>2023-01-20T00:00:00+08:00</updated>
   
-    <id>https://dim0x.github.io/chirpy/posts/pin-blog/</id>
-    <content src="https://dim0x.github.io/chirpy/posts/pin-blog/" />
+    <id>http://localhost:4000/chirpy/posts/pin-blog/</id>
+    <content src="http://localhost:4000/chirpy/posts/pin-blog/" />
     <author>
       <name>dimo</name>
     </author>
