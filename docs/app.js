@@ -3,7 +3,7 @@ const $btnRefresh = $('#notification .toast-body>button');
 
 if ('serviceWorker' in navigator) {
     /* Registering Service Worker */
-    navigator.serviceWorker.register('/chirpy/docs/sw.js')
+    navigator.serviceWorker.register('/chirpy/sw.js')
         .then(registration => {
 
             /* in case the user ignores the notification */

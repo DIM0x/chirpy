@@ -1,43 +1,43 @@
 const resource = [
     /* --- CSS --- */
-    '/chirpy/docs/assets/css/style.css',
+    '/chirpy/assets/css/style.css',
 
     /* --- PWA --- */
-    '/chirpy/docs/app.js',
-    '/chirpy/docs/sw.js',
+    '/chirpy/app.js',
+    '/chirpy/sw.js',
 
     /* --- HTML --- */
-    '/chirpy/docs/index.html',
-    '/chirpy/docs/404.html',
+    '/chirpy/index.html',
+    '/chirpy/404.html',
 
     
-        '/chirpy/docs/categories/',
+        '/chirpy/categories/',
     
-        '/chirpy/docs/tags/',
+        '/chirpy/tags/',
     
-        '/chirpy/docs/archives/',
+        '/chirpy/archives/',
     
-        '/chirpy/docs/about/',
+        '/chirpy/about/',
     
 
     /* --- Favicons & compressed JS --- */
     
     
-        '/chirpy/docs/assets/img/favicons/android-chrome-192x192.png',
-        '/chirpy/docs/assets/img/favicons/android-chrome-512x512.png',
-        '/chirpy/docs/assets/img/favicons/apple-touch-icon.png',
-        '/chirpy/docs/assets/img/favicons/favicon-16x16.png',
-        '/chirpy/docs/assets/img/favicons/favicon-32x32.png',
-        '/chirpy/docs/assets/img/favicons/favicon.ico',
-        '/chirpy/docs/assets/img/favicons/mstile-150x150.png',
-        '/chirpy/docs/assets/img/favicons/safari-pinned-tab.svg',
-        '/chirpy/docs/assets/js/dist/categories.min.js',
-        '/chirpy/docs/assets/js/dist/commons.min.js',
-        '/chirpy/docs/assets/js/dist/home.min.js',
-        '/chirpy/docs/assets/js/dist/misc.min.js',
-        '/chirpy/docs/assets/js/dist/page.min.js',
-        '/chirpy/docs/assets/js/dist/post.min.js',
-        '/chirpy/docs/assets/js/dist/pvreport.min.js'
+        '/chirpy/assets/img/favicons/android-chrome-192x192.png',
+        '/chirpy/assets/img/favicons/android-chrome-512x512.png',
+        '/chirpy/assets/img/favicons/apple-touch-icon.png',
+        '/chirpy/assets/img/favicons/favicon-16x16.png',
+        '/chirpy/assets/img/favicons/favicon-32x32.png',
+        '/chirpy/assets/img/favicons/favicon.ico',
+        '/chirpy/assets/img/favicons/mstile-150x150.png',
+        '/chirpy/assets/img/favicons/safari-pinned-tab.svg',
+        '/chirpy/assets/js/dist/categories.min.js',
+        '/chirpy/assets/js/dist/commons.min.js',
+        '/chirpy/assets/js/dist/home.min.js',
+        '/chirpy/assets/js/dist/misc.min.js',
+        '/chirpy/assets/js/dist/page.min.js',
+        '/chirpy/assets/js/dist/post.min.js',
+        '/chirpy/assets/js/dist/pvreport.min.js'
 ];
 
 /* The request url with below domain will be cached */
