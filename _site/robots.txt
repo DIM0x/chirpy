@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: https://dim0x.github.io/chirpy/sitemap.xml
